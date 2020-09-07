@@ -5,5 +5,5 @@ func Hello() string {
 }
 
 func Proverb() string {
-	return "proverb"
+	return "proverb2"
 }
